@@ -1,0 +1,22 @@
+{
+  "name": "Thermae_2000",
+  "description": "Thermae 2000 HTML Base",
+  "version": "0.1.0",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-file-include": "~0.13.7",
+    "gulp-include": "^1.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "handlebars": "^4.0.5"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
